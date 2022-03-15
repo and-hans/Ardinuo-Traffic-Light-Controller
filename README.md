@@ -1,4 +1,4 @@
-# Ardinuo-Traffic-Light-Controller
+# Ardinuo-Traffic-Light
 Title says it all. Made a traffic light with the help of an Arduino Uno board, some resistors (10 ohms I believe), some LEDs, a breadboard, and lots of cardboard.
 
 Warning:
