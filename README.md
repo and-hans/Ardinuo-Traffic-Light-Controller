@@ -14,3 +14,5 @@ Warning:
 
 
 I should probably use TinkerCAD or Simulink to show the circuit at work; so I'll just put it on my to-do list and definitely not start a new project (lol).
+
+UPDATE: Heres the TinkerCAD [link](https://www.tinkercad.com/things/2XTvQsSqxNO) to view what it should look like (and also be confused as to why I connected the middle junctions but seperated the left and right ones to their own pins). Just press "Simulate" near the play button, and then "Start Simulation", at the top, to watch it work.
