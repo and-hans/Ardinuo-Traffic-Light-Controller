@@ -1,5 +1,5 @@
 # Ardinuo-Traffic-Light
-Title says it all. Made a traffic light with the help of an Arduino Uno board, some resistors (10 ohms I believe), some LEDs, a breadboard, and lots of cardboard.
+Title says it all. Made a traffic light with the help of an Arduino Uno board, some resistors (100 ohms I believe, but 220 ohm should be used for safety), some LEDs, a breadboard, and lots of cardboard.
 
 One streets traffic lights turns green, including a pedestrian light that turns on, while the other streets light is red. After a bit, the yellow light turns on for the intersection that had the green light on, and then it turns red. A bit later, the intersection that previously had the red light turns to green light, with it's pedestrian light turning on as well. The cycle then goes on and on.
 
